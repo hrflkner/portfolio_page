@@ -1,1 +1,1 @@
-# portfolio_page
+This repo holds a personal webpage that I created for practicing CSS and HTML. I hope to continue to update it with some animations, blogging pages, and separated pages for other types of content I wish to include.
